@@ -8,8 +8,6 @@
 layout: home
 ---
 
-# ![](https://github.com/gdsbook/book/raw/master/infrastructure/booksite/logo/ico_64x64.png)  *Welcome!*
-
 This the site for the book *"Geographic Data Science with PySAL and PyData
 Stack"*, by Sergio J. Rey, Dani Arribas-Bel and Levi J. Wolf. Find out about
 the latest news regarding the book, 
