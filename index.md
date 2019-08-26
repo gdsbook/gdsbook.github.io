@@ -8,6 +8,8 @@
 layout: home
 ---
 
+# Welcome!
+
 # *{{site.title}}*
 
 This is the site for the book *"Geographic Data Science with PySAL and the PyData
