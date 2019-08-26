@@ -4,7 +4,7 @@ title: Authors
 permalink: /authors/
 ---
 
-## *{{site.title}}*
+### *{{site.title}}*
 
 #### Sergio J. Rey
 
