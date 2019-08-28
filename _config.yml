@@ -18,7 +18,6 @@ minima:
     twitter: pysal_devs
     github:  gdsbook
     rss: rss
-    google_analytics: UA-146598819-1
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -43,6 +42,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - authors.md
+
+google_analytics: UA-146598819-1
 
 # Build settings
 theme: minima
