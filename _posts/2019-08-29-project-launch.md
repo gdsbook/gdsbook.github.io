@@ -3,7 +3,7 @@ layout: post
 title: "Work in progress..."
 ---
 
-Today, we ([Serge Rey, Dani Arribas-Bel and Levi Wolf](https:/geographicdata.science/authors)) are thrilled to unveil a
+Today, we ([Serge Rey, Dani Arribas-Bel and Levi Wolf](/authors)) are thrilled to unveil a
 project we've been working on for several months now: the forthcoming book
 *"Geographic Data Science with PySAL and the Pydata Stack"*.
 
@@ -23,7 +23,7 @@ analytics. Hence, it is only logical that it adopts a similar open-source ethos.
 
 ### Open development
 
-We will be writing the book in the open. As you will quickly find out, the [book you can browse today](https:/geographicdata.science/book)
+We will be writing the book in the open. As you will quickly find out, the [book you can browse today](/book)
  is far from finished; it is the ultimate
 example of a "work in progress". We will manage the writing process similarly to how we
 work on PySAL or how many open-source projects operate: there's an [open
