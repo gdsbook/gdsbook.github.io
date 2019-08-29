@@ -9,7 +9,7 @@ project we've been working on for several months now: the forthcoming book
 
 When we started this adventure, we only had one thing clear: we wanted to
 write a book that would help as many people as possible getting started in
-Python for Geographic Data Science. This goal has guided some pretty key
+Python for Geographic Data Science. This goal has guided some key
 decisions about the publishing process and the final product. Let's get into
 the three main ones.
 
