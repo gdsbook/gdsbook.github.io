@@ -7,7 +7,7 @@ meta: ["Announcement"]
 ---
 
 It's been a few months and, arguably, a few (pandemic) bumps along the road since
-[we](/authors.md) [announced](https://geographicdata.science/2019/08/24/hello-world.html) this project back
+[we](/authors) [announced](https://geographicdata.science/2019/08/24/hello-world.html) this project back
 in August'19. The **good news** is we're almost done! We have submitted a first full
 draft to CRC and are putting the very final touches before sending over to production.
 
